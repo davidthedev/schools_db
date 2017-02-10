@@ -1,0 +1,1 @@
+## Schools DB (plain)
